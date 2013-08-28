@@ -1,1 +1,1 @@
-web: volo serve
+web: node app.js
